@@ -1,39 +1,34 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+MileStone README.md
 
-Welcome USER_NAME,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# My First Milestone Project
 
-## Gitpod Reminders
+Welcome! [Total Body Fittness](http://totaldodyfittness.net)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## UX
+This website was created for the Total Body Fitness GYM, the goal is to keep their existing members while attracting new membership, through their competitive prices and quality service. Qualified Instructors will be running daily programs; members can attend all or specific classes as they see fit. Through this project, I offer strong advertising, through typography, colors, and easy navigational tools. Engaging existing customers, improving customer satisfaction through better service, simplifying and optimizing content updates, and website management, to grow the company and increase profitability.
 
-A blue button should appear to click: *Make Public*,
+## User Stories
+As a user, I would like to create a new account.
 
-Another blue button should appear to click: *Open Browser*.
+As a user, I would like to log into the gym's website.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+As a user, I would like to have easy access to the gym's website an all it features.
 
-A blue button should appear to click: *Make Public*,
+As a user, I would like to gain strength and keep fit.
 
-Another blue button should appear to click: *Open Browser*.
+As a user, I would like to know that I have the full support of the instructors to help me on my journey.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+As a user, I would like to full access to all gym equipment.
 
-## Updates Since The Instructional Video
+As a user, I would like to be updated to all new offers.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+as a user, I will like to be updated to all class schedules.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Wireframes, mockups, diagrams etc
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+### Wireframe 1: Home Page<img src="/images/home.png"> 
+### Wireframe 2: About Us Page<img src="/images/about-us.png"> 
+### Wireframe 3: Gallery Page<img src="/images/gallery.png"> 
+### Wireframe 4: Gallery Page<img src="/images/class-schedule.png"> 
