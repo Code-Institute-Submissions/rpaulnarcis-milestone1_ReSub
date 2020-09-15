@@ -167,5 +167,27 @@ h4{
 mark {
     background-color: #0efd45;
 }
+.btn--pink {
+    background-color: #ee1cee;
+    border-color: #000; 
+    color:#fff;
+}
 
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn:active:focus {
+    background-color:#ca13ca;
+    border-color: #000; 
+}
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px;
+}
+
+.btn.btn-lg.btn--pink.btn--cta {
+    margin-top: 15px;
+}
 /*-- Call Out--*/
