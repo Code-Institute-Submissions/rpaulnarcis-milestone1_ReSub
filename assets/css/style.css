@@ -93,3 +93,79 @@ h4{
     padding-bottom: 10px;
 }
 /*-- footer --*/
+/*-- Call Out--*/
+
+.container-wrapper {
+    background-color: #ee1cee0d;
+}
+
+.container-wrapper--pink {
+    background-color: #ee1cee;
+    color:white;
+    padding-top: 65px;
+    padding-bottom: 30px;
+}
+
+.hero-image {
+    height: 130vh;
+  
+    background: url("/images/hero 3.jpg") no-repeat center center; 
+    background-size: cover;
+    padding-bottom: 150px;
+    margin-top: 65px;
+    padding-top: 20px;
+}
+
+.jumbotron{
+    background-color: transparent;
+}
+
+.callout.jumbotron.text-center{
+    margin-top: 100px;
+}
+
+.jumbotron-header{
+    color: #ee1cee;
+    font-size: 40px;;
+    margin-top: 100px;
+    padding-bottom: 20px;
+    text-shadow: 2px 2px #000;
+}
+
+#burn {
+    font-size: 100px;
+    font-weight: 600;
+    -webkit-transform: scaleY(1.9);
+        -ms-transform: scaleY(1.9);
+            transform: scaleY(1.9);
+    color: beige;
+    text-shadow: 2px 2px #000;
+}
+
+.jumbotron .lead{
+    margin:  0;
+    color:  #87f9ff;
+    padding-top: 20px;
+    padding-bottom: 0;
+    font-size: 30px;
+}
+
+#callout1 {
+    text-shadow: 2px 2px #000;
+}
+
+#callout2 {
+    text-shadow: 2px 2px #000;
+}
+
+#cost {
+    color: #0efd45;
+    font-size: 35px;
+    text-shadow: 2px 2px #000;
+}
+
+mark {
+    background-color: #0efd45;
+}
+
+/*-- Call Out--*/
