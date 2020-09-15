@@ -50,3 +50,28 @@ nav.container-fluid.navbar.bg-dark.navbar-expand-sm.fixed-top {
 }
 
 /*-- nav --*/
+/*-- footer --*/
+.footer {
+    padding-top: 45px;
+    padding-bottom: 50px;
+}
+
+.footer-container {
+    text-align: center;
+    font-size: 0;
+}
+
+h5{
+    font-size: 13px;
+}
+
+h6{
+    font-size: 10px;
+    color: beige;
+}
+h4{
+    font-size:17px;
+    color:beige;
+    padding-bottom: 10px;
+}
+/*-- footer --*/
