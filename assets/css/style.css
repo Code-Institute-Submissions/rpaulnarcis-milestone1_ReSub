@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap|Exo:');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Exo", sans-serif;
+    color: #ee1cee;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*-- nav --*/
+
+.fixed-top {
+    padding-top:0;
+    padding-bottom: 0;
+}
+
+i.fa.fas.fa-bars {
+    font-size: xx-large;
+    color: #7777;
+}
+.nav-link.current {
+    color:#a526a5;
+}
+
+a.nav-link{
+    color:#ee1cee;
+    font-size: 18px;
+}
+nav.container-fluid.navbar.bg-dark.navbar-expand-sm.fixed-top {
+    padding-bottom: 2px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 500;
+    color:#ee1cee;
+}
+
+/*-- nav --*/
