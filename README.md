@@ -5,7 +5,7 @@ MileStone README.md
 
 Welcome! [Total Body Fittness](http://totaldodyfittness.net)
 
-
+Milestone Project Home Page<img src="/images/milestone.png">
 ## UX
 This website was created for the Total Body Fitness GYM, the goal is to keep their existing members while attracting new membership, through their competitive prices and quality service. Qualified Instructors will be running daily programs; members can attend all or specific classes as they see fit. Through this project, I offer strong advertising, through typography, colors, and easy navigational tools. Engaging existing customers, improving customer satisfaction through better service, simplifying and optimizing content updates, and website management, to grow the company and increase profitability.
 
