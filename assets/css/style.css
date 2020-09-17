@@ -332,6 +332,118 @@ h3.aboutus-ender {
     padding-bottom: 20px;
 }
 /*-- About Us --*/
+/*-- Schedule --*/
+
+.container-schedule {
+    padding-bottom: 70px;
+}
+
+.row.schedule {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.row.header {
+    font-size: 20px;
+}
+
+.jumbotron-schedule {
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 100px;
+    padding-bottom: 1px;
+}
+
+.main-schedule-header.px-4 {
+    color:#000;
+}
+
+h3.main-schedule-header {
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.container.schedule {
+    margin-bottom: 120px;
+}
+/*-- Schedule --*/
+
+/*-- Class Schedule Colour --*/
+
+.row.schedule-header h4 {
+    color: white;
+    font-size: 18px;
+}
+
+.row.schedule-header {
+   background-color: black;   
+}
+
+hr.my-auto.flex-grow-1 {
+   border: 0; 
+   height:5px;
+   clear:both;
+   display: block;
+   background-color: #ee1cee;
+   margin: auto;
+}
+
+.grey {
+    background-color: #dae0e5; 
+}
+
+.day {
+    background-color:  #ee1cee;
+}
+
+.day h3 {
+color: white;
+font-size: 22px;
+}
+
+.cardio {
+    color:#fff;
+    background-color:#49a4ecc7;
+}
+
+.burn {
+    color: #fff;
+    background-color: #ef5353cc;
+}
+
+.zumba {
+    color: #fff;
+    background-color: #ef80efbd;
+}
+
+.body {
+    color: #fff;
+    background-color: #5bcc75cc;
+}
+
+.strong {
+    color: #fff;
+    background-color: #ab6beae0;
+}
+
+.functional {
+    color: #fff;
+    background-color: #ff6f48d6;
+}
+
+.pump {
+    color: #fff;
+    background-color: #4950cc80;
+}
+
+.rev {
+    color: #fff;
+    background-color: #f1bb1ba1;
+}
+
+/*-- Class Schedule Colour --*/
+
 /*-- gallery --*/
 @media(min-width:768px){
 div.container.our-mission {
