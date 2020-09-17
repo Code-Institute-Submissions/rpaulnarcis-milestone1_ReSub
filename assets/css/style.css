@@ -291,13 +291,6 @@ i {
     font-size: 20px;
 }
 
-.ex-programs {
-about us css
-
-
-    font-size: 20px;
-}
-
 .workout{
     color:#fff;
 }
@@ -336,12 +329,67 @@ h3.aboutus-ender {
 /*-- About Us --*/
 /*-- gallery --*/
 @media(min-width:768px){
-mark{
-    display: inline-block;
+div.container.our-mission {
+    padding-top: 450px;
+} 
+h2.mission-header {
+    font-size: 35px;
+    font-weight: bold;
+} 
+.mission-statment {
+    font-size: 25px;
+    font-weight: 600;
+} 
+
+#top-aboutus {
+    border: 0; 
+    height:5px;
+    clear:both;
+    display: block;
+    width: 6%;
+    background-color: #ee1cee;
+    margin: auto;
+    margin-top: 30px;
 }
 
 .container-fluid.aboutus-image {
     margin-top: -200px;
+}
+
+h2#workout-header {
+    padding-top: 80px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#first-program {
+    padding-top: 70px;
+    font-size: 28px;
+}
+
+p.workout {
+    font-size: 25px;
+}
+
+.ex-programs {
+    font-size: 28px; 
+}
+
+.info {
+    font-size: 20px;
+}
+
+.asurance {
+    padding-top: 20px;
+}
+
+.container-fluid.exprogram {
+    height: 160vh;
+}
+
+h3.aboutus-ender {
+    font-size: 28px;
+    padding-top: 40px;
 }
     
 .container-1 {
