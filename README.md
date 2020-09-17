@@ -61,3 +61,15 @@ Feature 3 :- The navigational Links makes it easy to move back and forth from pa
 - when you click on the Sign-Up and Log-In button more options will be offered so the user can actually completes a form.
 
 - A persional Trainor section to be implemented on page as well.
+## Technologies Used:
+Google Fonts: https://fonts.google.com/
+
+Google fonts were used to style text on webpage.
+
+Font Awesome: https://fontawesome.com/
+
+Font Awsome was used to create icons on webpage.
+
+Bootstrap: https://getbootstrap.com/
+
+Bootstrap HTML,CSS and javascript libraries used to design websites faster and easier.
