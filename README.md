@@ -73,3 +73,16 @@ Font Awsome was used to create icons on webpage.
 Bootstrap: https://getbootstrap.com/
 
 Bootstrap HTML,CSS and javascript libraries used to design websites faster and easier.
+## Testing:
+### Syntax - HTML & CSS
+<i class="far fa-clone"></i> Using https://validator.w3.org and filtering errors related to Angular (ex: no doctype,...)
+                                 
+  - index.html &check;
+  - home.html &check;
+  - aboutus.html &check;
+  - gallery.html &check;
+  - classschedule.html &check;
+
+<i class="far fa-clone"></i> Using https://jigsaw.w3.org/css-validator/ I validated the following spreadsheet:
+
+- defaultStylesheet.css: &check;
