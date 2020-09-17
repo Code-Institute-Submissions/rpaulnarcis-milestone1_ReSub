@@ -608,5 +608,29 @@ container-fluid-image div{
 }
 }
 /*-- gallery --*/
+@media only screen and (max-width: 600px) {
+#top-aboutus {
+    display: none;
+}  
+
+.container-1 {
+    padding-top: 30px;
+}
+
+html, body {
+ width: auto;
+ overflow-x: hidden;
+}
+
+hr.my-auto.flex-grow-1 {
+    display: none;
+}
+
+.jumbotron.jumbotron-schedule {
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+}
+}
 
 
