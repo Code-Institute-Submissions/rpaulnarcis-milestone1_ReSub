@@ -51,3 +51,13 @@ as a user, I will like to be updated to all class schedules.
 -  On all devices mentioned below the Class Schedule page comprises of the header navbar body, and footer.
 
 - The body consist of, A detailed exercise class schedule, displaying the weekly layout of the days, times, exercise programs, durations, and instructors.
+### Existing Features:
+Feature 1 :- The Sign-Up button allows users to register for our service by creating a user name and password.
+
+Feature 2 :- The Sign-Up / Sign-In button allows users to register for our service by creating a user name and password and also allows existing users to log in.
+
+Feature 3 :- The navigational Links makes it easy to move back and forth from page to page.
+### Features Left to Implement:
+- when you click on the Sign-Up and Log-In button more options will be offered so the user can actually completes a form.
+
+- A persional Trainor section to be implemented on page as well.
