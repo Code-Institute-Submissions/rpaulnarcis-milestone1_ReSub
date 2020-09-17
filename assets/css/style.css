@@ -251,12 +251,13 @@ mark {
 
 h2.mission-header {
     color: #ee1cee;
-    font-weight: 400;
     padding-top: 20px;
     padding-bottom: 10px;
+    font-weight: bold;
     font-size: 25px;
     font-family: "Roboto",sans-serif;
     text-shadow: 2px 2px #000;
+   
   
 }
 
@@ -270,11 +271,11 @@ h2.mission-header {
 
 #workout-header {
     font-weight: 400;
-    padding-top: 20px;
+    padding-top: 25px;
     padding-bottom: 10px;
     font-size: 25px;
     font-family: "Roboto",sans-serif;
-   
+    text-shadow: 2px 2px #000;
 }
 h5.program {
     font-size: 20px;
@@ -288,6 +289,10 @@ i {
 }
 
 #first-program {
+    font-size: 20px;
+}
+
+.ex-programs {
     font-size: 20px;
 }
 
@@ -393,8 +398,9 @@ h3.aboutus-ender {
 }
     
 .container-1 {
-    padding-top: 40px;
+    padding-top: 50px;
     display: flex;
+    
 }    
 .container-1-box{
     width:100%;
