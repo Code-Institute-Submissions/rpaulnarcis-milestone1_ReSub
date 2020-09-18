@@ -128,7 +128,9 @@ h4{
     margin-top: 65px;
     padding-top: 20px;
 }
-
+.container-fluid.hero-image {
+    margin-top: 50px;
+}
 .jumbotron{
     background-color: transparent;
 }
@@ -483,6 +485,54 @@ font-size: 22px;
 /*-- Class Schedule Colour --*/
 
 /*-- gallery --*/
+@media only screen and (min-width: 320px) {
+.container-1 {
+    padding-top: 30px;
+}
+
+h2.mission-header {
+    font-size: 28px;
+}
+
+#workout-header {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+hr.my-auto.flex-grow-1 {
+    display: none;
+}
+
+.jumbotron.jumbotron-schedule {
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+
+.container.schedule {
+    margin-bottom: 50px;
+}
+
+#burn {
+    font-size: 90px;
+}
+
+.jumbotron-header {
+    font-size: 35px;
+}
+
+mark {
+    font-size: 25px;
+    display: inline-block;
+}
+
+.callout.jumbotron.text-center {
+    margin-top: -30px;
+}
+
+button.btn.btn-lg.btn--pink.btn--cta {
+    font-size: 15px;
+}
+}
 
 @media only screen and (min-width: 600px) {
 
