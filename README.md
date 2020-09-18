@@ -3,7 +3,7 @@ MileStone README.md
 
 # My First Milestone Project
 
-Welcome! [Total Body Fittness](http://totaldodyfittness.net)
+Welcome! [My First Milestone Project]( https://milestone1/)
 
 Milestone Project Home Page<img src="/images/milestone.png">
 ## UX
@@ -151,3 +151,27 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 
 ### Sign-Up /Sign button:
 - Try to submit the form with an invalid email address and a error message appears asking for @ to be included.
+## Deployment:
+
+## Credits:
+- Responsive image code used on both images in the about page taken Thanveer Shah Slack.
+
+- Code used for building the gallery on the gallery page taken from Codegrid.com.
+- Code used to fix the screen from moveing when on mobile.
+- Molal code taken from Whiskey Droo Bootsyrap.
+- Button code taken from Whiskey Drop Bootstrap. 
+
+### Content.
+- The Home page Call Out banner text taken from colorlib Blog 18 Best Gym Websites Design Inspiration 2020.
+
+- The mission statment and all text after exercise programs on the About Us page taken from Primal 7 website about us page.
+- Exercise programs and definitions on About Us page taken from Shapes Fitness for Women website class schedule page.
+- Class Schedule information text an layout taken from Shapes Fitness for Women website class schedule page.
+### Media.
+- All images are random images from the internet.
+### Acknowledgements:
+- I recieved inspiration from the Whiskey Drop website project.
+
+- I recieved inspiration from the Love Running website project.
+- I recieved inspiration from the Shapes Fitness for Women website
+
