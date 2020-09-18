@@ -86,3 +86,44 @@ Bootstrap HTML,CSS and javascript libraries used to design websites faster and 
 <i class="far fa-clone"></i> Using https://jigsaw.w3.org/css-validator/ I validated the following spreadsheet:
 
 - defaultStylesheet.css: &check;
+### Manual testing:
+I tested on microsoft edge and crome(desktop) see user test below.
+## Responsiveness / user testing:
+### Manual testing done:
+On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle device toolbar for:
+### Mobile:
+- Galaxy S5
+- Nexus 10
+- Nexus 4
+- Nexus 5
+- Nexus 5X
+- 411 x 731 [ Nexus 6P ]
+- iphone 8
+- 414 x 736 [ Apple iPhone 6s Plus/7 Plus ]
+- 414 x 896 [ Apple iPhone XR ]
+- 375 x 667 [ Apple iPhone 6/6s/7 ]
+- 414 x 736 [ Apple iPhone 8 Plus ]
+- iphone X
+- 411 x 731 [ Google Pixel XL ]
+- 411 x 731 [ Google Pixel 2 XL ]
+- 360 x 640 [ LG G4 ]
+- 400 x 640 [ Samsung Galaxy Note ]
+- Samsung Galaxy Note
+### Tablet:
+- ipad 1
+- ipad 2
+- ipad Mini
+- Microsoft Surface
+- Apple iPad Pro
+- Apple iPad Pro 9.7 
+- Amazon Kindle Fire HD 8.9
+- Samsung Nexus 10
+- Apple iPad 3, 4, Air, Air2
+- 768 x 1024 [ HTC Nexus 9 ]
+### Laptop / Desktop:
+- 1440 x 900 [ Desktop/Laptop ]
+- 1280 x 800 [ Desktop/Laptop ]
+- 1024 x 768 [ Desktop/Laptop ]
+- 1680 x 1050 [ Desktop/Laptop ]
+
+### Specifically I systematically tested all of the above devices.
