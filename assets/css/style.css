@@ -483,12 +483,20 @@ font-size: 22px;
 /*-- Class Schedule Colour --*/
 
 /*-- gallery --*/
+
 @media only screen and (min-width: 600px) {
 
-
+.navbar-brand {
+    font-size: 25px;
 }
-@media only screen and (min-width: 600px) {
 
+.container.our-mission {
+    padding-top: 275px;
+}
+
+h2#workout-header {
+    font-weight: bold;
+}
 mark {
     display: inline-block;
 }
@@ -515,6 +523,20 @@ hr.my-auto.flex-grow-1 {
     margin-top: 60px;
     margin-bottom: 0px;
 }
+
+.info {
+    font-size: 14px;
+}
+
+h3.aboutus-ender {
+    font-size: 20px;
+    padding-top: 30px;    
+}
+
+.exprogram-img {
+    height: 112vh;
+}
+
 }
 
 
@@ -622,10 +644,15 @@ h3.aboutus-ender {
 }
 }
 
+@media(min-width:980px){
+    .exprogram-img {
+    height: 125vh;
+}
+}
 @media(min-width:1024px){
 .container-wrapper-aboutus {
         margin-bottom: 0;
-         margin-top: -20px;
+         margin-top: -50px;
 }
 
 #top-aboutus {
@@ -640,7 +667,14 @@ h3.aboutus-ender {
 }
 
 .exprogram-img {
-    height: 165vh;
+    height: 130vh;
+}
+h2.mission-header {
+    font-size: 35px;
+}
+
+h2#workout-header {
+    font-size: 35px;
 }
 
 .container-asurance {
@@ -651,10 +685,25 @@ h3.aboutus-ender {
     padding-top: 50px;
     padding-bottom: 0;
     font-family: "Roboto",sans-serif;
-    font-size: 30px;
+    font-size: 28px;
 }
 
-@media(min-width:1166px){
+@media(min-width:1078px){
+    .exprogram-img {
+    height: 135vh;
+}
+
+.asurance {
+    padding-top: 0px;
+}
+.workout {
+    padding-bottom: 10px;
+}
+
+h3.aboutus-ender {
+    padding-top: 35px;
+}
+@media(min-width:1165px){
 .container-wrapper-aboutus {
     margin-bottom: 0;
     margin-top: -70px;
@@ -665,7 +714,17 @@ h3.aboutus-ender {
 }
 
 .exprogram-img {
-    height: 160vh;
+    height: 130vh;
+}
+
+h3.aboutus-ender {
+    padding-top: 30px;
+    font-size: 28px;
 }
 }
 
+@media(min-width:1460px){
+    .container-wrapper-aboutus {
+        margin-top: -30px;
+    }
+}
