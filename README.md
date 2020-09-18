@@ -127,3 +127,27 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 - 1680 x 1050 [ Desktop/Laptop ]
 
 ### Specifically I systematically tested all of the above devices.
+## NAVIGATION:
+### Nivigation on Mobile:
+- On mobile the menu is collapsed when I start.
+
+- The menu opens when I click on the hamburger icon.
+- Only four links are present.
+- All four links work.
+- The menu collapsed back when I click on all four links.
+- The menu collapsed back when I click on the hamburger menu.
+### Nivigation on Tablet:
+- The menu is not collapsable no hamburger is present.
+
+- There are four links.
+- All four links work.
+
+### Nivigation on Destop:
+- The menu is not collapsable no hamburger is present.
+
+- There are four links.
+- All four links work.
+- There is also a button after the fourth link which comprises of a Sign-Up / Log-In button.
+
+### Sign-Up /Sign button:
+- Try to submit the form with an invalid email address and a error message appears asking for @ to be included.
