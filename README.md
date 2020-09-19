@@ -102,7 +102,6 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 - 414 x 736 [ Apple iPhone 6s Plus/7 Plus ]
 - 414 x 896 [ Apple iPhone XR ]
 - 375 x 667 [ Apple iPhone 6/6s/7 ]
-- 414 x 736 [ Apple iPhone 8 Plus ]
 - iphone X
 - 411 x 731 [ Google Pixel XL ]
 - 411 x 731 [ Google Pixel 2 XL ]
@@ -152,7 +151,7 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 ### Sign-Up /Sign button:
 - Try to submit the form with an invalid email address and a error message appears asking for @ to be included.
 ## Deployment:
-
+- I Configured my milestone 1 Project Total Budy Fitness website to display to gitHub pages and any file or files I push to the master.
 ## Credits:
 - Responsive image code used on both images in the about page taken from Thanveer Shah Slack.
 
