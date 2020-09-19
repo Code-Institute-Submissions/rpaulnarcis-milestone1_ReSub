@@ -63,6 +63,7 @@ nav.container-fluid.navbar.bg-dark.navbar-expand-sm.fixed-top {
 }
 
 /*-- nav --*/
+
 /*-- footer --*/
 .footer {
     padding-top: 45px;
@@ -106,6 +107,7 @@ h4{
     padding-bottom: 10px;
 }
 /*-- footer --*/
+
 /*-- Call Out--*/
 
 .container-wrapper {
@@ -128,9 +130,11 @@ h4{
     margin-top: 65px;
     padding-top: 20px;
 }
+
 .container-fluid.hero-image {
     margin-top: 50px;
 }
+
 .jumbotron{
     background-color: transparent;
 }
@@ -141,7 +145,8 @@ h4{
 
 .jumbotron-header{
     color: #ee1cee;
-    font-size: 40px;;
+    font-size: 40px;
+    font-weight: bold;
     margin-top: 100px;
     padding-bottom: 20px;
     text-shadow: 2px 2px #000;
@@ -182,6 +187,7 @@ h4{
 mark {
     background-color: #0efd45;
 }
+
 .btn--pink {
     background-color: #ee1cee;
     border-color: #000; 
@@ -206,6 +212,7 @@ mark {
     margin-top: 15px;
 }
 /*-- Call Out --*/
+
 /*-- About Us --*/
 .about-us-img {
     background-image:url("../images/1aboutus 5.jpg");
@@ -252,16 +259,13 @@ hr#top-aboutus {
     padding-bottom: 30px;
 }
 
-
-
 .container-rapper-aboutus{
     margin-top: 100px;
     margin-bottom: -25px;
 }
 
 .container-fluid.aboutus-image {
-    margin-top: -170px;
-   
+    margin-top: -170px;   
 }
 
 .container.our-mission {
@@ -372,6 +376,7 @@ h3.aboutus-ender {
     padding-bottom: 20px;
 }
 /*-- About Us --*/
+
 /*-- Schedule --*/
 
 .container-schedule {
@@ -484,12 +489,16 @@ font-size: 22px;
 
 /*-- Class Schedule Colour --*/
 
-/*-- gallery --*/
 @media only screen and (min-width: 320px) {
 .container-1 {
     padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: -10px;
 }
 
+.row.footer.gallery {
+    padding-bottom: 20px;
+}
 h2.mission-header {
     font-size: 28px;
 }
@@ -521,7 +530,7 @@ hr.my-auto.flex-grow-1 {
 }
 
 mark {
-    font-size: 25px;
+    font-size: 17px;
     display: inline-block;
 }
 
@@ -533,8 +542,7 @@ button.btn.btn-lg.btn--pink.btn--cta {
     font-size: 15px;
 }
 .info {
-    font-size: 11px;
-    
+    font-size: 11px;    
 }
 
 h3.aboutus-ender {
@@ -542,9 +550,7 @@ h3.aboutus-ender {
 
 }
 
-
 @media only screen and (min-width: 600px) {
-
 .navbar-brand {
     font-size: 25px;
 }
@@ -558,6 +564,7 @@ h2#workout-header {
 }
 mark {
     display: inline-block;
+    font-size: 20px
 }
 
 hr#top-aboutus {
@@ -570,6 +577,8 @@ button.btn.btn-lg.btn--pink.btn--cta {
 
 .container-1 {
     padding-top: 30px;
+    padding-bottom: 0;
+    margin-bottom: -10px;
 }
 
 html, body {
@@ -599,6 +608,7 @@ h3.aboutus-ender {
     height: 112vh;
 }
 }
+
 @media(min-width:768px){
 #burn {
     font-size: 90px;
@@ -623,10 +633,10 @@ mark {
 .callout.jumbotron.text-center {
     margin-top: -30px;
 }
+
 #burn{
     font-size: 125px;
 }
-
 
 div.container.our-mission {
     padding-top: 400px;
@@ -701,8 +711,9 @@ h3.aboutus-ender {
 .container-1 {
     margin: 0;
     padding-top: 20px;
-    padding-bottom: 10px;
     background-color: #32383efc;
+    padding-bottom: 0;
+    margin-bottom: -10px;
 }
 
 #gallery {
@@ -743,6 +754,7 @@ mark {
     font-size: 23px;
 }
 }
+
 @media(min-width:1024px){
 .container-wrapper-aboutus {
         margin-bottom: 0;
@@ -767,6 +779,7 @@ mark {
 .exprogram-img {
     height: 130vh;
 }
+
 h2.mission-header {
     font-size: 35px;
 }
@@ -801,6 +814,7 @@ h3.aboutus-ender {
 h3.aboutus-ender {
     padding-top: 35px;
 }
+
 @media(min-width:1165px){
 .container-wrapper-aboutus {
     margin-bottom: 0;
