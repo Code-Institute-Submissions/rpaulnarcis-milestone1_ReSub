@@ -19,8 +19,8 @@ body {
 }
 
 html, body {
- width: auto;
- overflow-x: hidden;
+    width: auto;
+    overflow-x: hidden;
 }
 
 h2 {
@@ -160,8 +160,8 @@ h4{
     font-size: 100px;
     font-weight: 600;
     -webkit-transform: scaleY(1.9);
-        -ms-transform: scaleY(1.9);
-            transform: scaleY(1.9);
+    -ms-transform: scaleY(1.9);
+    transform: scaleY(1.9);
     color: beige;
     text-shadow: 2px 2px #000;
 }
@@ -447,8 +447,8 @@ hr.my-auto.flex-grow-1 {
 }
 
 .day h3 {
-color: white;
-font-size: 22px;
+    color: white;
+    font-size: 22px;
 }
 
 .cardio {
@@ -586,8 +586,8 @@ button.btn.btn-lg.btn--pink.btn--cta {
 }
 
 html, body {
- width: auto;
- overflow-x: hidden;
+    width: auto;
+    overflow-x: hidden;
 }
 
 hr.my-auto.flex-grow-1 {
@@ -747,7 +747,7 @@ h3.aboutus-ender {
 }
 
 @media(min-width:980px){
-    .exprogram-img {
+.exprogram-img {
     height: 125vh;
 }
 
@@ -761,8 +761,8 @@ mark {
 
 @media(min-width:1024px){
 .container-wrapper-aboutus {
-        margin-bottom: 0;
-         margin-top: -50px;
+    margin-bottom: 0;
+    margin-top: -50px;
 }
 
 #top-aboutus {
