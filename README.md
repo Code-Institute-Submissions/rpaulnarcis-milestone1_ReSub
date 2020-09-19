@@ -3,9 +3,9 @@ MileStone README.md
 
 # My First Milestone Project
 
-Welcome! [My First Milestone Project]( https://milestone1/)
+Welcome! [My First Milestone Project](https://rpaulnarcis.github.io/milestone1/)
 
-Milestone Project Home Page<img src="/images/milestone.png">
+Milestone Project Home Page<img src="assets/images/milestone.png">
 ## UX
 This website was created for the Total Body Fitness GYM, the goal is to keep their existing members while attracting new membership, through their competitive prices and quality service. Qualified Instructors will be running daily programs; members can attend all or specific classes as they see fit. Through this project, I offer strong advertising, through typography, colors, and easy navigational tools. Engaging existing customers, improving customer satisfaction through better service, simplifying and optimizing content updates, and website management, to grow the company and increase profitability.
 
@@ -28,10 +28,10 @@ as a user, I will like to be updated to all class schedules.
 
 ## Wireframes, mockups, diagrams etc
 
-### Wireframe 1: Home Page<img src="/images/home.png"> 
-### Wireframe 2: About Us Page<img src="/images/about-us.png"> 
-### Wireframe 3: Gallery Page<img src="/images/gallery.png"> 
-### Wireframe 4: Gallery Page<img src="/images/class-schedule.png"> 
+### Wireframe 1: Home Page<img src="assets/images/home.png"> 
+### Wireframe 2: About Us Page<img src="assets/images/about-us.png"> 
+### Wireframe 3: Gallery Page<img src="assets/images/gallery.png"> 
+### Wireframe 4: Gallery Page<img src="assets/images/class-schedule.png"> 
 ## Features
 ### Home page:
 - On all devices mentioned below the home page comprise of the header, navbar, hero image with call out banner, and footer.
@@ -154,12 +154,13 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 ## Deployment:
 
 ## Credits:
-- Responsive image code used on both images in the about page taken Thanveer Shah Slack.
+- Responsive image code used on both images in the about page taken from Thanveer Shah Slack.
 
 - Code used for building the gallery on the gallery page taken from Codegrid.com.
-- Code used to fix the screen from moveing when on mobile.
-- Molal code taken from Whiskey Droo Bootsyrap.
-- Button code taken from Whiskey Drop Bootstrap. 
+- Code used to fix the screen from moveing when on mobile taken from Vlad Alivanov Slack.
+- Molal code taken from Whiskey Drop Bootsyrap code.
+- Button code taken from Whiskey Drop Bootstrap code.
+- All other coding was done by Robert Narcis. 
 
 ### Content.
 - The Home page Call Out banner text taken from colorlib Blog 18 Best Gym Websites Design Inspiration 2020.
