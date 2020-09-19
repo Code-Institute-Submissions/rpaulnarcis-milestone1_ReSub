@@ -59,7 +59,11 @@ nav.container-fluid.navbar.bg-dark.navbar-expand-sm.fixed-top {
 .navbar-brand{
     font-size: 30px;
     font-weight: 500;
-    color:#ee1cee;
+    color:#ee1cee;    
+}
+
+.navbar-brand:hover {
+    color:#a526a5
 }
 
 /*-- nav --*/
