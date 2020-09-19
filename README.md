@@ -152,6 +152,17 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 - Try to submit the form with an invalid email address and a error message appears asking for @ to be included.
 ## Deployment:
 - I Configured my milestone 1 Project Total Budy Fitness website to display to gitHub pages and any file or files I push to the master.
+### Deployment Process:
+- Opened up GitHub in the browser.
+- Signed in with my username and password.
+- Selected my repositories.
+- Navigated to rpnarcis/milestone1.
+- In the top navigation clicked settings.
+- Scrolled down to the GitHub Pages area.
+- Selected Master Branch from the Source dropdown menu.
+- Clicked to confirm my selection.
+- rpaulnarcis/milestone1 is now live on GitHub Pages.
+-  Your site is published at https://rpaulnarcis.github.io/milestone1/
 ## Credits:
 - Responsive image code used on both images in the about page taken from Thanveer Shah Slack.
 
