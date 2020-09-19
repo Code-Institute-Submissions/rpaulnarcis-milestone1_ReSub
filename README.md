@@ -150,8 +150,11 @@ On Opera, Microsoft edge, and Google crome. I tested all pages using the toggle 
 
 ### Sign-Up /Sign button:
 - Try to submit the form with an invalid email address and a error message appears asking for @ to be included.
+### bug:
+- I encountered a bug where the hamburger button icon went invisible on me it is there but without the three lines, I was not able to solve this bug instead I used font Awsome and pasted a substitute icon to represent it.
 ## Deployment:
 - I Configured my milestone 1 Project Total Budy Fitness website to display to gitHub pages and any file or files I push to the master.
+
 ### Deployment Process:
 - Opened up GitHub in the browser.
 - Signed in with my username and password.
