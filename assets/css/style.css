@@ -551,7 +551,7 @@ button.btn.btn-lg.btn--pink.btn--cta {
 
 h3.aboutus-ender {
     font-size: 18px;
-
+}
 }
 
 @media only screen and (min-width: 600px) {
@@ -802,6 +802,7 @@ h3.aboutus-ender {
     font-family: "Roboto",sans-serif;
     font-size: 28px;
 }
+}
 
 @media(min-width:1078px){
     .exprogram-img {
@@ -811,12 +812,14 @@ h3.aboutus-ender {
 .asurance {
     padding-top: 0px;
 }
+
 .workout {
     padding-bottom: 10px;
 }
 
 h3.aboutus-ender {
     padding-top: 35px;
+}
 }
 
 @media(min-width:1165px){
@@ -839,8 +842,8 @@ h3.aboutus-ender {
 }
 }
 
-@media(min-width:1460px){
+@media(min-width:1460px) {
     .container-wrapper-aboutus {
         margin-top: -30px;
-    }
+}
 }
