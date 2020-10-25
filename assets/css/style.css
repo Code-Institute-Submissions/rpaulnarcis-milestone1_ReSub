@@ -218,16 +218,6 @@ mark {
 /*-- Call Out --*/
 
 /*-- About Us --*/
-.about-us-img {
-    background-image:url("../images/1aboutus 5.jpg");
-    object-fit: contain;    
-   -webkit-background-size: cover;     
-   -moz-background-size: cover;    
-   -o-background-size: contain;    
-   background-size: cover;
-   background-position:center;            
-   flex: 1;     
-}
 
 hr#top-aboutus {
     display: none
@@ -302,16 +292,8 @@ h2.mission-header {
    
   
 }
-
-.exprogram-img {
-    background-image:url("../images/program.jpg");
-    object-fit: contain;    
-   -webkit-background-size: cover;     
-   -moz-background-size: cover;    
-   -o-background-size: contain;    
-   background-size: cover;
-   background-position:center;            
-   flex: 1;     
+.exprogram {
+    background-color: #000;
 }
 
 #workout-header {
@@ -453,62 +435,79 @@ hr.my-auto.flex-grow-1 {
 
 .cardio {
     color:#fff;
-    background-color:#49a4ecc7;
+    background-color:#bd2199;
 }
 
 .burn {
     color: #fff;
-    background-color: #ef5353cc;
+    background-color: #a01a27;
 }
 
 .zumba {
     color: #fff;
-    background-color: #ef80efbd;
+    background-color: #981598bd;
 }
 
 .body {
     color: #fff;
-    background-color: #5bcc75cc;
+    background-color: #742cbbe0;
 }
 
 .strong {
     color: #fff;
-    background-color: #ab6beae0;
+    background-color: #6f0e65e0;
 }
 
 .functional {
     color: #fff;
-    background-color: #ff6f48d6;
+    background-color: #4e3f3bd6;
 }
 
 .pump {
     color: #fff;
-    background-color: #4950cc80;
+    background-color: #aa1cbffc;
 }
 
 .rev {
     color: #fff;
-    background-color: #f1bb1ba1;
+    background-color: #a41bf1fa;
 }
 
 /*-- Class Schedule Colour --*/
 
-@media only screen and (min-width: 320px) {
+
+@media only screen and (max-width: 320px) {
+.about-us-img{
+    width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
 .container-1 {
     padding-top: 30px;
     padding-bottom: 0;
     margin-bottom: -10px;
+}
+.navbar-brand {
+    font-size: 25px;
+}
+
+ background-image: url('images/bg.jpg');
 }
 
 .row.footer.gallery {
     padding-bottom: 20px;
 }
 h2.mission-header {
-    font-size: 28px;
+    font-size: 25px;
+}
+.container-asurance {
+    margin-left: 8px;
 }
 
+
+
 #workout-header {
-    font-size: 28px;
+    font-size: 25px;
     font-weight: bold;
 }
 
@@ -743,7 +742,9 @@ h3.aboutus-ender {
 #gallery div img {
     width:100%;
     height: auto;
+    align-self: center;
 }
+
 }
 
 @media(min-width:980px){
