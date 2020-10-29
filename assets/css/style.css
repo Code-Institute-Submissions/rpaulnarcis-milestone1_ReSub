@@ -304,7 +304,7 @@ h2.mission-header {
   
 }
 .exprogram-img{
-     background-image:url("../images/program.jpg");
+    background-image:url("../images/program.jpg");
     object-fit: contain;    
    -webkit-background-size: cover;     
    -moz-background-size: cover;    
@@ -495,11 +495,35 @@ hr.my-auto.flex-grow-1 {
 /*-- Class Schedule Colour --*/
 
 
-@media only screen and (max-width: 320px) {
-.about-us-img{
-    width: auto ;
-  max-width: 100% ;
-  height: auto ;
+@media only screen  and (max-width: 320px) {
+
+.container-fluid.aboutus-image {
+   height: 100vh;
+}
+
+.container.our-mission {
+    padding-top: 250px;
+}
+
+.mission-statment {
+    font-size: 13px;
+}
+
+#first-program {
+    font-size: 18px;
+}
+
+.ex-programs {
+    font-size: 18px;
+}
+
+.workout.inline {
+    font-size: 13px;
+}
+
+.workout {
+    font-size: 13px;
+    margin-bottom: 5px;
 }
 .container-1 {
     padding-top: 30px;
@@ -514,14 +538,16 @@ hr.my-auto.flex-grow-1 {
     padding-bottom: 20px;
 }
 h2.mission-header {
-    font-size: 25px;
+    font-size: 23px;
+    padding-bottom: 5px;
 }
 .container-asurance {
     margin-left: 8px;
+    margin-right: 8px;
 }
 
 #workout-header {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: bold;
 }
 
@@ -564,6 +590,10 @@ button.btn.btn-lg.btn--pink.btn--cta {
 
 h3.aboutus-ender {
     font-size: 18px;
+}
+
+.exprogram-img{
+    height: 190vh;
 }
 
 .row.schedule-header {
@@ -642,7 +672,7 @@ hr.my-auto.flex-grow-1 {
 
 .jumbotron.jumbotron-schedule {
     margin-top: 60px;
-    margin-bottom: 0px;
+    margin-bottom: 15px;
 }
 
 .info {
@@ -655,7 +685,7 @@ h3.aboutus-ender {
 }
 
 .exprogram-img {
-    height: 112vh;
+    height: 230vh;
 }
 }
 
