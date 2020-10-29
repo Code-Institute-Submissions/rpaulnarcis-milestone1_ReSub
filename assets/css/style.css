@@ -520,8 +520,6 @@ h2.mission-header {
     margin-left: 8px;
 }
 
-
-
 #workout-header {
     font-size: 25px;
     font-weight: bold;
@@ -566,6 +564,39 @@ button.btn.btn-lg.btn--pink.btn--cta {
 
 h3.aboutus-ender {
     font-size: 18px;
+}
+
+.row.schedule-header {
+    padding-right: 20px;
+}
+
+.col.body {
+    padding-left: 5px;
+}
+.col.burn {
+   padding-left: 5px; 
+}
+
+.col.cardio {
+   padding-left: 5px; 
+}
+.col.zumba {
+   padding-left: 5px; 
+}
+.col.strong {
+   padding-left: 5px; 
+}
+.col.functional {
+   padding-left: 5px; 
+}
+.col.pump {
+   padding-left: 5px; 
+}
+.col.rev {
+   padding-left: 5px; 
+}
+#class-schedule-header {
+    font-size: 23px;
 }
 }
 
