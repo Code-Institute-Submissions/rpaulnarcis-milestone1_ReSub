@@ -218,9 +218,20 @@ mark {
 /*-- Call Out --*/
 
 /*-- About Us --*/
+.container-fluid.aboutus-image {
+
+    background-image: url("../images/1aboutus 5.jpg");
+    object-fit: contain;    
+   -webkit-background-size: cover;     
+   -moz-background-size: cover;    
+   -o-background-size: contain;    
+   background-size: cover;
+   background-position:center;            
+   flex: 1; 
+}
 
 hr#top-aboutus {
-    display: none
+    display: none;
 }
 
 .container-wrapper-aboutus {
@@ -292,8 +303,15 @@ h2.mission-header {
    
   
 }
-.exprogram {
-    background-color: #000;
+.exprogram-img{
+     background-image:url("../images/program.jpg");
+    object-fit: contain;    
+   -webkit-background-size: cover;     
+   -moz-background-size: cover;    
+   -o-background-size: contain;    
+   background-size: cover;
+   background-position:center;            
+   flex: 1;  
 }
 
 #workout-header {
@@ -311,6 +329,7 @@ h5.program {
 .fas fa fas fa-heartbeat d-none d-sm-inline {
     font-size: 20px; 
 }
+
 i {
     display: none;
 }
