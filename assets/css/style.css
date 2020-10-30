@@ -399,8 +399,8 @@ h3.aboutus-ender {
 
 .jumbotron-schedule {
     text-align: center;
-    padding-top: 20px;
-    margin-top: 100px;
+    margin-bottom: 5px;
+    margin-top: 40px;
     padding-bottom: 1px;
 }
 
@@ -670,7 +670,7 @@ hr.my-auto.flex-grow-1 {
     display: none;
 }
 
-.jumbotron.jumbotron-schedule {
+.jumbotron-schedule {
     margin-top: 60px;
     margin-bottom: 15px;
 }
