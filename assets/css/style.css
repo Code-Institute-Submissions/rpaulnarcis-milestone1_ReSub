@@ -494,6 +494,9 @@ hr.my-auto.flex-grow-1 {
 
 /*-- Class Schedule Colour --*/
 
+.container-1 {
+    margin-top: 20px;
+}
 
 @media only screen  and (max-width: 320px) {
 
@@ -555,9 +558,8 @@ hr.my-auto.flex-grow-1 {
     display: none;
 }
 
-.jumbotron.jumbotron-schedule {
-    margin-top: 60px;
-    margin-bottom: 5px;
+.jumbotron-schedule {
+    margin-top: 40px;
 }
 
 .container.schedule {
@@ -656,7 +658,7 @@ button.btn.btn-lg.btn--pink.btn--cta {
 }
 
 .container-1 {
-    padding-top: 30px;
+    margin-top: 20px;
     padding-bottom: 0;
     margin-bottom: -10px;
 }
@@ -747,6 +749,7 @@ h2.mission-header {
 
 .container-rapper-aboutus {
     margin-bottom: 0;
+    margin-top: 120px;
 }
 .container-fluid.aboutus-image {
     margin-top: -200px;
@@ -809,19 +812,22 @@ h3.aboutus-ender {
 }
 
 #gallery div {
-    -webkit-box-flex: auto;
+   -webkit-box-flex: auto;
     -ms-flex: auto;
     flex: auto;
-    width: 400px;
+    width: 360px;
     margin: .5vw;    
 }
-
 #gallery div img {
-    width:100%;
+     width:100%;
     height: auto;
     align-self: center;
+    
 }
 
+.jumbotron-schedule {
+    margin-top: 10px;
+}
 }
 
 @media(min-width:980px){
