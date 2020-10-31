@@ -162,7 +162,7 @@ h4{
     -webkit-transform: scaleY(1.9);
     -ms-transform: scaleY(1.9);
     transform: scaleY(1.9);
-    color: beige;
+    color: #fff;
     text-shadow: 2px 2px #000;
 }
 
@@ -890,7 +890,7 @@ h3.aboutus-ender {
 
 @media(min-width:1078px){
     .exprogram-img {
-    height: 135vh;
+    height: 165vh;
 }
 
 .asurance {
