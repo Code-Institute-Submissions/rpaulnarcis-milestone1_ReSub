@@ -132,8 +132,7 @@ Gallery Page<img src="assets/images/class-schedule.png">
 
 #### Syntax - HTML & CSS
 <i class="far fa-clone"></i> Using https://validator.w3.org and filtering errors related to Angular (ex: no doctype,...)
-- index.html &check;
-- home.html &check;
+- index.html (Home) &check;
 - aboutus.html &check;
 - gallery.html &check;
 - classschedule.html &check;
