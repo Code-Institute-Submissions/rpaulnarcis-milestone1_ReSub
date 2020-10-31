@@ -422,7 +422,7 @@ h3.main-schedule-header {
 /*-- Class Schedule Colour --*/
 
 .row.schedule-header h4 {
-    color: white;
+    color: beige;
     font-size: 18px;
 }
 
@@ -439,6 +439,10 @@ hr.my-auto.flex-grow-1 {
    margin: auto;
 }
 
+.col{
+     color: #626569;
+}
+
 .grey {
     background-color: #dae0e5; 
 }
@@ -448,48 +452,8 @@ hr.my-auto.flex-grow-1 {
 }
 
 .day h3 {
-    color: white;
+    color: beige;
     font-size: 22px;
-}
-
-.cardio {
-    color:#fff;
-    background-color:#cc1aa3;
-}
-
-.burn {
-    color: #fff;
-    background-color: #a91c2a;
-}
-
-.zumba {
-    color: #fff;
-    background-color: #7b0e7bbd;
-}
-
-.body {
-    color: #fff;
-    background-color: #632a9ae0;
-}
-
-.strong {
-    color: #fff;
-    background-color: #6f0e65e0;
-}
-
-.functional {
-    color: #fff;
-    background-color: #4e3f3bd6;
-}
-
-.pump {
-    color: #fff;
-    background-color: #aa1cbffc;
-}
-
-.rev {
-    color: #fff;
-    background-color: #a41bf1fa;
 }
 
 /*-- Class Schedule Colour --*/
