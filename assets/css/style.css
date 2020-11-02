@@ -417,6 +417,55 @@ h3.main-schedule-header {
 .container.schedule {
     margin-bottom: 120px;
 }
+
+.time p {
+    margin: 0px;
+}
+
+.time {
+    margin-top: 12px;    
+}
+
+.class p {
+    margin: 0px;
+}
+
+.class {
+    margin-top: 12px;
+}
+
+.duration p {
+    margin: 0px;
+}
+
+.duration {
+    margin-top: 12px;
+}
+
+.instructure p {
+    margin: 0px;
+}
+
+.instructor {
+    margin-top: 12px;
+}
+
+.time-head {
+    margin-top: 12px;
+}
+
+.class-head {
+    margin-top: 12px;
+}
+
+.duration-head {
+    margin-top: 12px;
+}
+
+.instructor-head {
+    margin-top: 12px;
+}
+
 /*-- Schedule --*/
 
 /*-- Class Schedule Colour --*/
@@ -454,6 +503,7 @@ hr.my-auto.flex-grow-1 {
 .day h3 {
     color: beige;
     font-size: 22px;
+    margin-top: 10px;
 }
 
 /*-- Class Schedule Colour --*/
